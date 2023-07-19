@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TaxBusby
 - 👀 I’m interested in TypeScript & Infrastructure as Code
-- 🌱 I’m currently learning GitHub Actions & Backstage
-- 💞️ I’m looking to collaborate on Repo Scaffolds!
+- 🌱 I’m currently learning security stuff!
+- 💞️ I’m looking to collaborate on IAC Tooling!
 - 📫 How to reach me: Slack me any time!
